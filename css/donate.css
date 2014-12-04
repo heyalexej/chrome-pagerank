@@ -1,0 +1,16 @@
+.container{
+	width:960px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Segoe UI, sans-serif;
+}
+.huge{
+	font-family: Bariol Regular;
+	font-size: 96px;
+	color:gray;
+}
+
+.amount{
+	font-size: 32px;
+	color:green;
+}
